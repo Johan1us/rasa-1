@@ -221,7 +221,7 @@ If you define entities as having the same value they will be treated as synonyms
 .. code-block:: md
 
     ## intent:search
-    - in the center of [NYC]{"entity": "city", "value": "New York City")
+    - in the center of [NYC]{"entity": "city", "value": "New York City"}
     - in the centre of [New York City](city)
 
 
